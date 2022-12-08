@@ -37,3 +37,12 @@ Hey, a little confession. I had inspiration from another template repo called [b
 
 ## Links
 https://github.com/2KAbhishek/BareMinimum
+<br>
+<br>
+
+<div align='center'>
+
+# Ready to start exploring?
+Go to our [templates directory](https://github.com/Wjplatformer/README/tree/main/TEMPLATES)!
+
+</div>
