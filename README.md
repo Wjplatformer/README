@@ -36,7 +36,8 @@ Well, not to worry, pull requests are welcome! Create your own markdown standard
 Hey, a little confession. I had inspiration from another template repo called [bareminimum](https://github.com/2KAbhishek/BareMinimum)! Check it out!
 
 ## Links
-https://github.com/2KAbhishek/BareMinimum
+https://github.com/2KAbhishek/BareMinimum<br>
+^ Inspiration
 <br>
 <br>
 
