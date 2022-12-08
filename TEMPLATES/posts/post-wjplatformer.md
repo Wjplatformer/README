@@ -13,12 +13,9 @@ Ending line
 
 ### Links!
 ###### subtitle if you want
-[Oh-My-Posh Official](https://ohmyposh.dev/)
-[Nerd Fonts Official](https://www.nerdfonts.com/)
-[Changing fonts fix](https://pureinfotech.com/change-font-face-windows-terminal/)
-[Running scripts in Powershell](https://petri.com/how-to-write-and-run-a-powershell-script-file-on-windows-11/)
-^ for this link, go to the Running Scripts in Powershell section
-[Inspirationnn](https://github.com/2KAbhishek/Posh2K)
+[Link](https://github.com/Wjplatformer/README/blob/main/TEMPLATES/posts/post-wjplatformer.md)<br>
+[Link](https://github.com/Wjplatformer/README/blob/main/TEMPLATES/posts/post-wjplatformer.md)<br>
+^ for this link, it does basically nothing (arrows and a paragraph for some instructions)
 
 ### Thanks everyone! (aka ending paragraph)
-Let's see how you think of this! If you have any problems, feel free to comment!
+Let's see how you think of this! If you have any problems, feel free to comment! Also do note that for Forem posts, you do not need to add the break tag at the end of each line, unless you want to create spacing
